@@ -1,0 +1,8 @@
+/toolchain/
+/venv/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.txt
